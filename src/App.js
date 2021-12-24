@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import './App.css';
-import DropDown from './DropDown';
 import OutsideClickHandler from 'react-outside-click-handler';
 
 function App() {
